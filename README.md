@@ -67,10 +67,10 @@ Revenue distribution across stores is fairly balanced, indicating uniform brand 
 
 ## 📈 Business Insights
 
-Sales **peak between 8 AM and 10 AM**, showing that morning hours are the busiest for the coffee business.
-**Coffee contributes 39%** of total sales — the brand’s strongest category. 
-**Barista Espresso** is the highest revenue-generating item, indicating strong customer preference for espresso-based drinks.
-**Hell’s Kitchen** leads with **\$236,511** in revenue, followed by **Astoria (\$232,243)** and **Lower Manhattan ($230,057)**.
+Sales **peak between 8 AM and 10 AM**, showing that morning hours are the busiest for the coffee business.<br>
+**Coffee contributes 39%** of total sales — the brand’s strongest category.<br>
+**Barista Espresso** is the highest revenue-generating item, indicating strong customer preference for espresso-based drinks.<br>
+**Hell’s Kitchen** leads with **\$236,511** in revenue, followed by **Astoria (\$232,243)** and **Lower Manhattan ($230,057)**.<br>
 **Regular (31%)** and **Small (30%)** orders dominate, accounting for over 60% of total sales.
 
 ---
